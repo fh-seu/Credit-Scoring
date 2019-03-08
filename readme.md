@@ -1,5 +1,5 @@
-Git is a distributed version control system.
+Credit-Scoring TEAM
 
-Git is free software distributed under the GPL.
+Name: tql
 
-Git has a mutable index called stage.
+ID: 86836
