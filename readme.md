@@ -4,11 +4,11 @@ Name: tql
 
 ID: 86836
 
-# Problem Description: 
+## Problem Description: 
 
 https://www.datafountain.cn/competitions/337/details/rule
 
-# Final Score: 
+## Final Score: 
 A榜: 179/2278, B榜: 208/2278
 
 mainly idea from:
